@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+## Future Enhancements
+
+[] Implement paralel fetching with JavaScript Promise or React Query.
+
+[] Implement loading data.
+
+[] User feedback on every use case actions.
+
+[] Use URL query params to manage tabs navigation.
+
 ## Getting Started
 
 Install packages:
