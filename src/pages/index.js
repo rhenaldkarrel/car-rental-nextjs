@@ -2,10 +2,10 @@ import Image from 'next/image';
 import { Geist, Geist_Mono } from 'next/font/google';
 import React from 'react';
 import { Cars } from '@/services/cars';
-import ProductCard from './_components/ProductCard';
+import ProductCard from '../components/homepage/ProductCard';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Orders } from '@/services/orders';
-import OrderCard from './_components/OrderCard';
+import OrderCard from '../components/homepage/OrderCard';
 import { toast } from 'sonner';
 
 export default function Home() {
